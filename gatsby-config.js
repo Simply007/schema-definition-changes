@@ -5,5 +5,18 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  plugins: [
+    {
+      resolve: `@kentico/gatsby-source-kontent`,
+      options: {
+        deliveryClientConfig: {
+          projectId: `29bcad08-6beb-0038-21d9-da1fa09b5f34`,
+        },
+        languageCodenames: [
+          `en`,
+          `de`,
+        ]
+      }
+    }
+  ]
 }

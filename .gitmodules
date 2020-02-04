@@ -1,0 +1,3 @@
+[submodule "plugins/@kentico/gatsby-source-kontent"]
+	path = plugins/@kentico/gatsby-source-kontent
+	url = https://github.com/Kentico/gatsby-source-kontent/
