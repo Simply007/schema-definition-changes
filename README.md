@@ -1,4 +1,4 @@
-# Schema definition issues with solution
+# Schema definition issues with solution for Gatsby source plugin for Kontent
 
 ## Issues
 
